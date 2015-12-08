@@ -81,25 +81,25 @@ And it works on mobile
 
 Reaction
 ----
-This interactive was the more popular tool the Herald has published. 
+This interactive was one of the most popular tools the Herald has published. 
 
-We received a lot positive feedback from readers, although many lamented the  fact they couldn't afford homes in the neighborhoods they wanted to live in. 
+We received a lot positive feedback from readers, although many lamented the fact they couldn't afford homes in the neighborhoods they wanted to live in. 
 
-Our editors also thought the project was a success, meaning we hope to have the opportunity to create more map-based interactive in the coming months. 
+Our editors also thought the project was a success, meaning we hope to have the opportunity to create more map-based interactives in the coming months. 
 
 What we learned
 ---
-**Communication** between developer and reporter is crucial. Good for both to understand the goal. Also, good for reporter to translate "code talk" to "normal English" for editors. 
+**Communication** between developer and reporter is crucial. Good for both to understand the goal.
 
 **Compromising** on expectations and realities can lead to less stress and better results, especially while working in a small team. 
 
-**Experimenting** with news ways to tell a story is always good but make sure to have backup plan when disaster strikes. 
+**Experimenting** with news ways to tell a story is always good but make sure to have backup plan when disaster strikes.  
 
-**Seek help** when stuck. There's a lot the Internet can provide but sitting with another person and talking out the problem can save hours on research. 
+**Seek help** when stuck. There's a lot the Internet can provide but sitting with another person and talking out the problem can be helpful. 
 
 Like our work?
 ---
-Check out other interactive projects the Miami Herald has published this year:
+Check out other interactive projects and tools the Miami Herald has published this year:
 
 * Jan. 20, 2015: [Did Medicare fine your local hospital for patient safety?](http://media.miamiherald.com/static/media/projects/2015/hospital-penalties/)
 
@@ -138,6 +138,8 @@ Check out other interactive projects the Miami Herald has published this year:
 * Oct. 16, 2015: [Jeb and Marco: The 2016 Money Race](http://pubsys.miamiherald.com/static/media/projects/2015/2016-money-race/)
 
 * Nov. 5, 2015: [What's wrong with Miami-Dade's bus routes?](http://pubsys.miamiherald.com/static/media/projects/2015/bus-gripes/)
+
+* Dec. 3, 2015: [Graphisize.js](https://github.com/chrisalcantara/graphisize.js) 
 
 
 
